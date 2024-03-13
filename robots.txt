@@ -1,0 +1,22 @@
+User-Agent: *
+Disallow: /page41376556.html
+Disallow: /page41376562.html
+Disallow: /page41809069.html
+Disallow: /error
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow: /members/login*
+Disallow: /members/signup*
+Disallow:
+
+
+Sitemap: https://ekorn-spb.ru/sitemap.xml
+Sitemap: https://ekorn-spb.ru/sitemap-store.xml
+Host: https://ekorn-spb.ru
